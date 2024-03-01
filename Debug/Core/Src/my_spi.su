@@ -1,0 +1,3 @@
+my_spi.c:26:6:spi_init	16	static
+my_spi.c:95:5:spi_write	32	static
+my_spi.c:116:5:spi_read	32	static

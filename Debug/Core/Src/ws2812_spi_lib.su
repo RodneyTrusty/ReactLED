@@ -1,0 +1,7 @@
+ws2812_spi_lib.c:12:6:byte_to_color	24	static
+ws2812_spi_lib.c:44:6:set_pixel_color	24	static
+ws2812_spi_lib.c:55:9:show_pixels	16	static
+ws2812_spi_lib.c:63:9:clear_pixels	32	static
+ws2812_spi_lib.c:78:5:map	24	static
+ws2812_spi_lib.c:88:6:set_bar	56	static
+ws2812_spi_lib.c:139:6:place_bar	64	static
